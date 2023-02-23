@@ -9,5 +9,5 @@ while condicao:
     elif oper_ == "4":print(x/y)
     elif oper_ == "5":print(x**y)
     else: oper_ !=  print("Operação Inválida")
-    if input('Fazer outra operação? S ou N: ') == 'N'  and "n"
+    if input('Fazer outra operação? S ou N: ') == 'N'  and "n":
      break
