@@ -1,3 +1,4 @@
+condicao = True
 while condicao:
     inicialização_ = print("SEJA BEM VINDO A CALCULADORA\nOPERAÇÕES\n(1-Soma, 2- Subtração, 3- Multiplicação, 4- Divisão, 5- Potência)")
     oper_ = input("Escolha sua operação: ")
